@@ -1,2 +1,7 @@
 # hello_world
-sample first
+
+Hello all!
+
+Sample first!
+Something adam made
+This are the changes introduced today. Not much.
